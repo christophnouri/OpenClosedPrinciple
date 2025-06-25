@@ -79,4 +79,4 @@ If you found it helpful, feel free to <a href="https://www.linkedin.com/in/sohei
 Contributions, feedback, and suggestions are always welcome!
 <br>
 <br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoheilSadeghii.OpenClosedPrinciple)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoheilSadeghii.OpenClosedPrinciple) -->
